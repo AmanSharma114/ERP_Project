@@ -1,0 +1,19 @@
+.navbar-nav li {
+    margin-right: 10px;
+  }
+  
+  .navbar-nav li.active a {
+    color: lightslategray;
+  }
+  
+  .navbar-nav li a {
+    color: white;
+    font-weight: bold; /* Make the text bold */
+    transition: all 0.3s ease; /* Add transition for smooth hover effect */
+  }
+  
+  .navbar-nav li a:hover {
+    color: lightslategray;
+    text-decoration: none;
+  }
+  
