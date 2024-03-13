@@ -1,1 +1,1 @@
-Try live: https://amazing-varahamihira-f1cf39.netlify.com/
+Try live: https://erp-amanproject.netlify.app/
